@@ -1,0 +1,21 @@
+ Introdução a Cultura Ágil
+
+4 Valores do manifesto ágil:
+
+Valorizar individuos e interações entre pessoas
+Colocar a frente o objetivo 
+Responder a mudanças, sendo capaz de se adaptar sendo flexivel
+Colaboração com o cliente, comunicação e feedback
+
+Métodos ágeis: Scrum e Kanban
+
+
+ Programação e Pensamento Computacional
+
+Pensamento computacional: Forma de pensar para a resoluções de problemas baseados em 4 pilares
+
+Decomposição - Dividir um problema complexo em partes
+Padrões - Identificar e reconhecer semelhanças para generalizar e poder utilizar em problemas parecidos
+Abstração - Analisar caracteristicas, entender os pontos iniciais e generalizar
+            Entendendo o conceito do problema para utilizar em outras ocasiões
+Algoritimo - Instruções passo a passo para concluir uma tarefa
